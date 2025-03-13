@@ -109,7 +109,7 @@ A RESTful API for a social network web application where users can share their t
 
 ## Demo
 
-[Watch the walkthrough video](your-video-link-here) demonstrating the functionality of the Social Network API.
+https://www.youtube.com/watch?v=qHjWBDSs45I
 
 
 ## License
